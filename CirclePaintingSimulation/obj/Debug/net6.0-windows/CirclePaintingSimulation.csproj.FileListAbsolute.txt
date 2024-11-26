@@ -1,0 +1,16 @@
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.Form1.resources
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\bin\Debug\net6.0-windows\CirclePaintingSimulation.exe
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\bin\Debug\net6.0-windows\CirclePaintingSimulation.deps.json
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\bin\Debug\net6.0-windows\CirclePaintingSimulation.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\bin\Debug\net6.0-windows\CirclePaintingSimulation.dll
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\bin\Debug\net6.0-windows\CirclePaintingSimulation.pdb
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.dll
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\refint\CirclePaintingSimulation.dll
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.pdb
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\CirclePaintingSimulation.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\CirclePaintingSimulation\CirclePaintingSimulation\obj\Debug\net6.0-windows\ref\CirclePaintingSimulation.dll
